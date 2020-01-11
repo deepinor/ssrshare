@@ -17,8 +17,6 @@ url = [
     'https://t.me/s/gyjclub',
     'https://www.goroutine.me/ssr/index.html',
     'https://viencoding.com/ss-ssr-share',
-	 'https://jichangdaquan.com/node/575.html',
-	 'https://jichangdaquan.com/node/429.html',
 ]
 
 subscriptions = [
@@ -35,8 +33,8 @@ subscriptions = [
     'https://yangwangssr.000webhostapp.com',
     'https://youlianboshi.netlify.com/',
     'https://yzzz.ml/freessr/',
-	 'https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub?fbclid=IwAR3fQ2BNtuUbePOpGLczJJZPDF_n1tFakWdSomHDafS5bz3YbH4Gq3I99rY',
-	 'https://ssr-luck.netlify.com',
-	 'https://shadowsocks-share.herokuapp.com/subscribe?valid=0',
-	 'https://raw.githubusercontent.com/eycorsican/rule-sets/master/kitsunebi_sub',
+    'https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub?fbclid=IwAR3fQ2BNtuUbePOpGLczJJZPDF_n1tFakWdSomHDafS5bz3YbH4Gq3I99rY',
+    'https://ssr-luck.netlify.com',
+    'https://shadowsocks-share.herokuapp.com/subscribe?valid=0',
+    'https://raw.githubusercontent.com/eycorsican/rule-sets/master/kitsunebi_sub',
 ]
